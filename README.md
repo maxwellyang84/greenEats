@@ -6,7 +6,7 @@ greenEats is an all in one grocery and food waste management app. With greenEats
 Furthermore, greenEats can even make recipe recommendations based off of items you select from your inventory, inspiring creativity while promoting usage of items closer to expiration.
 
 <p float="left">
-  <img src="https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/909/198/datas/original.png"  style="margin-right:250px" width="250" />
+  <img src="https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/909/198/datas/original.png"  style="margin-right:250px" width="250" hspace="20"/>
   <img src="https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/909/200/datas/gallery.jpg"  style="margin-right:100px" width="250" /> 
   <img src="https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/909/197/datas/gallery.jpg"  style="margin-right:10px" width="250" />
   
