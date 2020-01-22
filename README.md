@@ -7,7 +7,7 @@ Furthermore, greenEats can even make recipe recommendations based off of items y
 
 <img src="https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/909/198/datas/original.png"
      alt="Markdown Monster icon"
-     style="float: left; margin-right: 10px;" height="300" width="300" />
+     style="float: left; margin-right: 10px;" height="475" width="300" />
 
 
 
