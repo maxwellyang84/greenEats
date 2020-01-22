@@ -7,7 +7,7 @@ Furthermore, greenEats can even make recipe recommendations based off of items y
 
 <p float="left">
   <img src="https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/909/198/datas/original.png"   width="250" hspace="10"/>
-  <img src="https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/909/200/datas/gallery.jpg"   width="250" hspace="10" /> 
+  <img src="https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/909/200/datas/gallery.jpg"   width="250" hspace="20" /> 
   <img src="https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/909/197/datas/gallery.jpg"  width="250" />
   
 </p>
@@ -15,7 +15,7 @@ Furthermore, greenEats can even make recipe recommendations based off of items y
  <img src="https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/909/257/datas/gallery.jpg" 
       width="250" hspace="10"/> 
   <img src="https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/909/199/datas/gallery.jpg" 
- width="250" hspace="10"/>
+ width="250" hspace="20"/>
   <img src="https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/909/294/datas/gallery.jpg"  width="250" />
   </p>
 
